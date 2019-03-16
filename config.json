@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "canOpen": true,
+    "canOpenDemo": false,
+    "canOpenSettings": false,
+    "canCreate": false,
+    "canImportXml": false,
+    "dropbox": true,
+    "dropboxFolder": null,
+    "dropboxAppKey": "",
+    "webdav": false,
+    "webdavSaveMethod": "move",
+    "gdrive": true,
+    "gdriveClientId": "988325623106-4rqssgrc765ov205lrlar139gl1kc75k.apps.googleusercontent.com",
+    "onedrive": false,
+    "onedriveClientId": null
+  }
+}
